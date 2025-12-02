@@ -6,7 +6,7 @@ This repository contains the code snippets and images used in the book *DevSecOp
 
 ## Who This Guide is For
 
-I often use the word "developer" to refer to anyone who is involved in the software development lifecycle: developers, operations engineers, security engineers, and anyone else who is involved in delivering software. Not because I think that everyone should be a developer, but to avoid using multiple terms that can be long and cumbersome. However, I firmly believe that everyone involved in creating, deploying, and maintaining software should be an **engineer** and it's not a matter of diploma or degree but of mindset. 
+I often use the word "developer" to refer to anyone who is involved in the software development lifecycle: developers, operations engineers, security engineers, and anyone else who is involved in delivering software. Not because I think that everyone should be a developer, but to avoid using multiple terms that can be long and cumbersome. However, I firmly believe that everyone involved in creating, deploying, and maintaining software should be an **engineer** and it's not a matter of diploma or degree but of mindset.
 
 In my deeply held opinion, an engineer is someone who is able to take a problem, break it down into smaller pieces, solve each piece separately, then plays an active role at every stage to bring the greatest value to the solution. Perhaps I'm biased, but an engineer's mark is felt across every phase of the lifecycle—each step bearing their distinctive imprint. What happens when security engineers can't code, developers overlook security, or operations engineers don't grasp either domain? You end up with silos, blind spots, and vulnerabilities—a recipe for disaster waiting to happen.
 
@@ -22,7 +22,7 @@ DevSecOps is not a role but an set of practices to implement continuous security
 
 ## What You Will Learn
 
-Putting DevSecOps into practice at a scale is not an easy task and requires a shift in mindset, culture, and processes. However, taking the whole problem apart and addressing each piece separately can make it easier to implement. Taking a step back and looking at the big picture is important but not at the expense of the details - it's not enough to have the high-level view of the problem and if it's the only thing you have, chances are you will miss the details that are important to make it work. 
+Putting DevSecOps into practice at a scale is not an easy task and requires a shift in mindset, culture, and processes. However, taking the whole problem apart and addressing each piece separately can make it easier to implement. Taking a step back and looking at the big picture is important but not at the expense of the details - it's not enough to have the high-level view of the problem and if it's the only thing you have, chances are you will miss the details that are important to make it work.
 
 Charles Eames said: "The details are not the details. They make the design." This is true for DevSecOps as well. The details are what make DevSecOps work and if you don't pay attention to them, you will end up with a broken implementation that doesn't deliver the expected results. This guide is designed to help you with that through a series of chapters that cover different stages and aspects of the process. In this guide, you will understand the following concepts:
 
@@ -68,13 +68,21 @@ Transforming security from a checkpoint into a catalyst for velocity is no small
 
 ## About the Author
 
-Aymen El Amri is a software engineer, trainer, author, and entrepreneur. He is the founder of the [FAUN Developer Community](https://faun.dev/). He is the author of multiple books on software engineering. You can find him on [Twitter](https://twitter.com/eon01) and [LinkedIn](https://www.linkedin.com/in/elamriaymen/).
+[Aymen El Amri](https://aymenelamri.com) is a software and cloud-native engineer, trainer, author, and technopreneur with 15+ years of experience in building and scaling distributed systems, cloud architectures, and modern software delivery pipelines.
+
+He founded FAUN.dev(), one of the web's most active developer communities focused on Kubernetes, cloud-native engineering, modern software delivery, and other related topics.
+
+He has trained thousands of engineers on DevOps, SRE, Kubernetes, microservices, and cloud architectures, helping teams build reliable and scalable systems. His technical guides and courses are widely used by engineers and organizations looking to adopt cloud-native practices.
+
+His work earned several honors, including a national open-source award. He also advises companies on shaping their cloud-native and platform engineering direction. TechBeacon listed him among the top 100 DevOps professionals to follow.
+
+Find him on [FAUN.dev()](https://faun.dev/@eon01), [LinkedIn](https://www.linkedin.com/in/elamriaymen/) and [X](https://twitter.com/eon01).
 
 ## Join the Community
 
-This guide was published by FAUN, a community of developers and engineers who are passionate about learning and sharing their knowledge. If you're interested in joining us, you can start by subscribing to our newsletter at [faun.dev/join](https://faun.dev/join). Every week, we share the most important and relevant articles, tutorials, and videos on the latest technologies and trends, including cloud-native, DevSecOps, automation, and more.
+This guide was published by FAUN.dev(), an online platform and community dedicated to helping software engineers and developers keep up with what matters in a fast-evolving landscape. Join us by subscribing to our newsletter at [faun.dev/join](https://faun.dev/join). Every week, we share the most important and relevant articles, tutorials, and videos on the latest technologies and trends, including cloud-native, DevOps, Kubernetes, microservices, and more.
 
-You can also follow us on Twitter at [@joinFAUN](https://twitter.com/joinFAUN) and [LinkedIn](https://www.linkedin.com/company/22322295) to stay up-to-date with the latest news and announcements.
+You can also follow us on X at [@joinFAUN](https://x.com/joinFAUN) and [LinkedIn](https://www.linkedin.com/company/22322295) to stay up to date with the latest news and announcements, including free and premium guides, articles, and tutorials.
 
 ## Your Feedback Matters
 
